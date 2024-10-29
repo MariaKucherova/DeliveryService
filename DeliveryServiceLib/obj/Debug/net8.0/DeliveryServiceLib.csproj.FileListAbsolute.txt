@@ -1,0 +1,11 @@
+C:\Users\MVM13\OneDrive\Рабочий стол\Обучение\C#\DeliveryService\DeliveryServiceLib\bin\Debug\net8.0\DeliveryServiceLib.deps.json
+C:\Users\MVM13\OneDrive\Рабочий стол\Обучение\C#\DeliveryService\DeliveryServiceLib\bin\Debug\net8.0\DeliveryServiceLib.dll
+C:\Users\MVM13\OneDrive\Рабочий стол\Обучение\C#\DeliveryService\DeliveryServiceLib\bin\Debug\net8.0\DeliveryServiceLib.pdb
+C:\Users\MVM13\OneDrive\Рабочий стол\Обучение\C#\DeliveryService\DeliveryServiceLib\obj\Debug\net8.0\DeliveryServiceLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MVM13\OneDrive\Рабочий стол\Обучение\C#\DeliveryService\DeliveryServiceLib\obj\Debug\net8.0\DeliveryServiceLib.AssemblyInfoInputs.cache
+C:\Users\MVM13\OneDrive\Рабочий стол\Обучение\C#\DeliveryService\DeliveryServiceLib\obj\Debug\net8.0\DeliveryServiceLib.AssemblyInfo.cs
+C:\Users\MVM13\OneDrive\Рабочий стол\Обучение\C#\DeliveryService\DeliveryServiceLib\obj\Debug\net8.0\DeliveryServiceLib.csproj.CoreCompileInputs.cache
+C:\Users\MVM13\OneDrive\Рабочий стол\Обучение\C#\DeliveryService\DeliveryServiceLib\obj\Debug\net8.0\DeliveryServiceLib.dll
+C:\Users\MVM13\OneDrive\Рабочий стол\Обучение\C#\DeliveryService\DeliveryServiceLib\obj\Debug\net8.0\refint\DeliveryServiceLib.dll
+C:\Users\MVM13\OneDrive\Рабочий стол\Обучение\C#\DeliveryService\DeliveryServiceLib\obj\Debug\net8.0\DeliveryServiceLib.pdb
+C:\Users\MVM13\OneDrive\Рабочий стол\Обучение\C#\DeliveryService\DeliveryServiceLib\obj\Debug\net8.0\ref\DeliveryServiceLib.dll

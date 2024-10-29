@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DeliveryServiceLib/1.0.0": {
+        "runtime": {
+          "DeliveryServiceLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeliveryServiceLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

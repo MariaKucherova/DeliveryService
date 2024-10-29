@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ec4QXf+oncWWzPTZ6vH3ubGauV5EXk5tUt+hUzac1fic2o09S1SIZ09PTGwQt5b5pov5VmW5fpXS+TJKePqlGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MVM13\\OneDrive\\Рабочий стол\\Обучение\\C#\\DeliveryService\\DeliveryService\\DeliveryService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MVM13\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.1\\system.configuration.configurationmanager.8.0.1.nupkg.sha512",
+    "C:\\Users\\MVM13\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.1\\system.diagnostics.eventlog.8.0.1.nupkg.sha512",
+    "C:\\Users\\MVM13\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
